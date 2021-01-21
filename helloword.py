@@ -9,8 +9,12 @@ a=10
 #第三天
 print("111")
 
+# 第四天
+list=[]
+
 
 # 第六天
 
 def myfun():
     pass
+
