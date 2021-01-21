@@ -8,3 +8,9 @@ a=10
 
 #第三天
 print("111")
+
+
+# 第六天
+
+def myfun():
+    pass
