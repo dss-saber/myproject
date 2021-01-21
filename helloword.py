@@ -13,8 +13,13 @@ print("111")
 list=[]
 
 
+
+# 第五天
+b=1
+
 # 第六天
 
 def myfun():
     pass
+
 
