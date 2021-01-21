@@ -22,4 +22,8 @@ b=1
 def myfun():
     pass
 
+# 第七天
+
+c=10
+
 
